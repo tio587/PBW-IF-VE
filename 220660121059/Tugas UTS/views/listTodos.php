@@ -2,8 +2,8 @@
 <html>
 <head>
     <title>Todo List</title>
-    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
-    <script src="assets/js/script.js"></script>
+    <link rel="stylesheet" type="text/css" href="assets/css/styles.css">
+    <script src="assets/js/scripts.js"></script>
 </head>
 <body>
     <h1>Todo List</h1>
